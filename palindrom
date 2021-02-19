@@ -1,0 +1,12 @@
+var str = "lol";
+
+var r = str.split("").reverse().join("");
+
+console.log(r);
+
+if (str === r){
+
+    console.log(true);
+} else {
+    console.log(false);
+}
