@@ -1,4 +1,4 @@
-var str = "lol";
+var str = "amit";
 
 var r = str.split("").reverse().join("");
 
